@@ -1,3 +1,4 @@
+![logo](https://github.com/Dhirajkumar122/Dhirajkumar122/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src"https://images.app.goo.gl/wAnHJsTKdJU1R3ww7">
